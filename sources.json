@@ -1,11 +1,10 @@
 [
   { "name": "Netflix Tech Blog", "feed_url": "https://netflixtechblog.com/feed" },
-  { "name": "Uber Engineering", "feed_url": "https://eng.uber.com/feed/" },
   { "name": "AWS Blog", "feed_url": "https://aws.amazon.com/blogs/aws/feed/" },
-  { "name": "Airbnb Engineering", "feed_url": "https://medium.com/airbnb-engineering/feed" },
+  { "name": "Airbnb Engineering", "feed_url": "https://airbnb.tech/feed/" },
   { "name": "Cloudflare Blog", "feed_url": "https://blog.cloudflare.com/rss/" },
   { "name": "Meta Engineering", "feed_url": "https://engineering.fb.com/feed/" },
-  { "name": "Shopify Engineering", "feed_url": "https://shopify.engineering/blog.atom" },
   { "name": "Martin Fowler", "feed_url": "https://martinfowler.com/feed.atom" },
-  { "name": "Spotify Engineering", "feed_url": "https://engineering.atspotify.com/feed/" }
+  { "name": "Spotify Engineering", "feed_url": "https://engineering.atspotify.com/feed/" },
+  { "name": "Arpit Bhayani", "feed_url": "https://arpitbhayani.me/rss.xml" }
 ]
