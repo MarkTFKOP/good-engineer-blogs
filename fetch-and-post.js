@@ -33,7 +33,7 @@ async function postToSlack(entry) {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
-      text: `*${entry.source}*: <${entry.link}|${entry.title}>`,
+      message: `*${entry.source}*: <${entry.link}|${entry.title}>`,
     }),
   });
   if (!res.ok) {
