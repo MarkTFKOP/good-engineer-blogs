@@ -46,5 +46,53 @@
     "title": "Isolation Forest - Fast and Efficient Anomaly Detection",
     "source": "Arpit Bhayani",
     "publishedAt": "2020-01-31T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Python's Missing Feature - Function Overloading",
+    "link": "https://arpitbhayani.me/blogs/function-overloading",
+    "publishedAt": "2020-02-07T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Rule 30 - Generating Random Numbers with Cellular Automata",
+    "link": "https://arpitbhayani.me/blogs/rule-30-cellular-automata",
+    "publishedAt": "2020-02-14T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Python Prompt Strings",
+    "link": "https://arpitbhayani.me/blogs/python-prompts",
+    "publishedAt": "2020-02-21T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Habits that Make a Great Programmer",
+    "link": "https://arpitbhayani.me/blogs/better-programmer",
+    "publishedAt": "2020-02-28T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "The Intuition Behind IDF",
+    "link": "https://arpitbhayani.me/blogs/idf",
+    "publishedAt": "2020-03-10T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Sliding Window Rate Limiting - Design and Implementation",
+    "link": "https://arpitbhayani.me/blogs/sliding-window-ratelimiter",
+    "publishedAt": "2020-04-05T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Building Better Ratings with Bayesian Averages",
+    "link": "https://arpitbhayani.me/blogs/bayesian-average",
+    "publishedAt": "2020-04-12T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Modeling Finite State Machines with Python Coroutines",
+    "link": "https://arpitbhayani.me/blogs/fsm-python",
+    "publishedAt": "2020-04-19T00:00:00.000Z"
   }
 ]
