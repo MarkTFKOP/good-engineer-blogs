@@ -3,6 +3,7 @@ import Parser from "rss-parser";
 
 const SOURCES_PATH = new URL("./sources.json", import.meta.url);
 const POSTED_PATH = new URL("./posted.json", import.meta.url);
+const MAX_POSTED_URLS = 2000; // cap so posted.json doesn't grow forever
 const MAX_POSTS_PER_RUN = 8; // caps how many entries go to Slack in one run
 
 const webhookUrl = process.env.SLACK_WEBHOOK_URL;
@@ -19,19 +20,12 @@ async function fetchNewEntries(source) {
   const feed = await parser.parseURL(source.feed_url);
   return feed.items
     .filter((item) => item.link && !posted.has(item.link))
-    .map((item) => {
-      const publishedAt = item.isoDate ?? item.pubDate;
-      if (!publishedAt || Number.isNaN(Date.parse(publishedAt))) {
-        throw new Error(`Invalid publication date for ${item.link}`);
-      }
-
-      return {
-        source: source.name,
-        title: item.title,
-        link: item.link,
-        publishedAt,
-      };
-    });
+    .map((item) => ({
+      source: source.name,
+      title: item.title,
+      link: item.link,
+      publishedAt: item.isoDate ?? item.pubDate ?? null,
+    }));
 }
 
 async function postToSlack(entry) {
@@ -51,7 +45,7 @@ async function main() {
   const results = await Promise.all(sources.map(fetchNewEntries));
   const newEntries = results
     .flat()
-    .sort((a, b) => Date.parse(a.publishedAt) - Date.parse(b.publishedAt))
+    .sort((a, b) => new Date(a.publishedAt ?? 0) - new Date(b.publishedAt ?? 0))
     .slice(0, MAX_POSTS_PER_RUN);
 
   for (const entry of newEntries) {
@@ -59,7 +53,8 @@ async function main() {
     posted.add(entry.link);
   }
 
-  fs.writeFileSync(POSTED_PATH, JSON.stringify([...posted], null, 2));
+  const trimmed = [...posted].slice(-MAX_POSTED_URLS);
+  fs.writeFileSync(POSTED_PATH, JSON.stringify(trimmed, null, 2));
 
   console.log(`Posted ${newEntries.length} new entries.`);
 }
