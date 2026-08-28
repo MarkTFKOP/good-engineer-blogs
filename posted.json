@@ -1,10 +1,50 @@
 [
-  "https://arpitbhayani.me/blogs/making-http-requests-using-netcat",
-  "https://arpitbhayani.me/blogs/fast-and-efficient-pagination-in-mongodb",
-  "https://arpitbhayani.me/blogs/mongodb-cursor-skip-is-slow",
-  "https://arpitbhayani.me/blogs/benchmark-and-compare-pagination-approach-in-mongodb",
-  "https://arpitbhayani.me/blogs/i-changed-my-python",
-  "https://arpitbhayani.me/blogs/long-integers-python",
-  "https://arpitbhayani.me/blogs/image-steganography",
-  "https://arpitbhayani.me/blogs/isolation-forest"
+  {
+    "link": "https://arpitbhayani.me/blogs/making-http-requests-using-netcat",
+    "title": null,
+    "source": null,
+    "publishedAt": null
+  },
+  {
+    "link": "https://arpitbhayani.me/blogs/fast-and-efficient-pagination-in-mongodb",
+    "title": null,
+    "source": null,
+    "publishedAt": null
+  },
+  {
+    "link": "https://arpitbhayani.me/blogs/mongodb-cursor-skip-is-slow",
+    "title": null,
+    "source": null,
+    "publishedAt": null
+  },
+  {
+    "link": "https://arpitbhayani.me/blogs/benchmark-and-compare-pagination-approach-in-mongodb",
+    "title": null,
+    "source": null,
+    "publishedAt": null
+  },
+  {
+    "link": "https://arpitbhayani.me/blogs/i-changed-my-python",
+    "title": null,
+    "source": null,
+    "publishedAt": null
+  },
+  {
+    "link": "https://arpitbhayani.me/blogs/long-integers-python",
+    "title": null,
+    "source": null,
+    "publishedAt": null
+  },
+  {
+    "link": "https://arpitbhayani.me/blogs/image-steganography",
+    "title": null,
+    "source": null,
+    "publishedAt": null
+  },
+  {
+    "link": "https://arpitbhayani.me/blogs/isolation-forest",
+    "title": null,
+    "source": null,
+    "publishedAt": null
+  }
 ]

@@ -81,7 +81,8 @@ app.innerHTML = `
         and drops them into Slack—a few at a time, on a schedule.
       </p>
       <div class="cta-row">
-        <a class="btn btn-primary" href="#run-your-own">Run your own</a>
+        <a class="btn btn-primary" href="./feed.html">Read the feed</a>
+        <a class="btn btn-ghost" href="#run-your-own">Run your own</a>
         <a class="btn btn-ghost" href="https://github.com/MarkTFKOP/good-engineer-blogs" target="_blank" rel="noreferrer">View on GitHub</a>
       </div>
     </div>

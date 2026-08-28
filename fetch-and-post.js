@@ -11,7 +11,12 @@ if (!webhookUrl) {
 }
 
 const sources = JSON.parse(fs.readFileSync(SOURCES_PATH, "utf8"));
-const posted = new Set(JSON.parse(fs.readFileSync(POSTED_PATH, "utf8")));
+const records = JSON.parse(fs.readFileSync(POSTED_PATH, "utf8")).map((record) =>
+  typeof record === "string"
+    ? { link: record, title: null, source: null, publishedAt: null }
+    : record,
+);
+const posted = new Set(records.map((record) => record.link));
 
 const parser = new Parser();
 
@@ -21,6 +26,9 @@ async function fetchNewEntries(source) {
     .filter((item) => item.link && !posted.has(item.link))
     .map((item) => {
       const publishedAt = item.isoDate ?? item.pubDate;
+      if (!item.title) {
+        throw new Error(`Missing title for ${item.link}`);
+      }
       if (!publishedAt || Number.isNaN(Date.parse(publishedAt))) {
         throw new Error(`Invalid publication date for ${item.link}`);
       }
@@ -57,7 +65,8 @@ async function main() {
   for (const entry of newEntries) {
     await postToSlack(entry);
     posted.add(entry.link);
-    fs.writeFileSync(POSTED_PATH, JSON.stringify([...posted], null, 2));
+    records.push(entry);
+    fs.writeFileSync(POSTED_PATH, JSON.stringify(records, null, 2));
   }
 
   console.log(`Posted ${newEntries.length} new entries.`);

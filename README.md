@@ -3,18 +3,18 @@
 An open-source bot that watches a curated list of engineering blogs and posts
 new entries to Slack—a few at a time, on a schedule, with no server to operate.
 The repository also contains a small public homepage that shows what the bot
-follows and how to run your own copy.
+follows, a live reading feed, and instructions for running your own copy.
 
 ## Repository layout
 
 ```text
 fetch-and-post.js               Bot runtime
 sources.json                    RSS and Atom sources
-posted.json                     Deduplication state committed by the workflow
+posted.json                     Delivery history committed by the workflow
 .github/workflows/
   post-blogs.yml                Runs the bot on a weekday schedule
   deploy-site.yml               Publishes site/ through GitHub Pages
-site/                            Static Vite and TypeScript homepage
+site/                            Static Vite and TypeScript site
 ```
 
 ## Run your own bot
@@ -35,7 +35,8 @@ Do not commit or share the Slack webhook URL.
 ## How it works
 
 - `fetch-and-post.js` fetches all configured RSS and Atom feeds and filters out
-  links already recorded in `posted.json`.
+  links already recorded in `posted.json`. Each record contains the link,
+  title, source, and publication date.
 - It sorts all unseen entries oldest-first and posts at most eight per run.
   Large archives therefore drain gradually instead of flooding the channel.
 - Each successful Slack post is recorded immediately. The workflow commits the
@@ -69,8 +70,16 @@ pace.
 
 ## Homepage
 
-The static homepage lives in `site/`. It imports the repository's
-`sources.json` during the build, keeping the public list aligned with the bot.
+The static site lives in `site/`. The homepage imports the repository's
+`sources.json` during the build, keeping the public source list aligned with the
+bot. `feed.html` loads `posted.json` from the public repository at runtime, so
+new deliveries appear without rebuilding the site. The repository must remain
+public for that runtime request to work.
+
+Historical string-only records were migrated without display metadata and are
+intentionally hidden from the reading feed. New deliveries include the full
+metadata required by the page.
+
 Local development requires Node.js 22.12 or newer.
 
 ```bash
@@ -89,11 +98,21 @@ actions.
 
 ### Custom domain
 
-After choosing the real domain, create `site/public/CNAME` containing only that
-hostname. Configure the matching DNS record and enter the same hostname under
-**Settings → Pages → Custom domain**. Follow
-[GitHub's current custom-domain guide](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
-for the required records.
+For a subdomain such as `blogs.example.com`:
+
+1. In your personal GitHub **Settings → Pages**, add and verify the apex domain
+   using the TXT record GitHub provides. Keep that TXT record in DNS.
+2. In the repository's **Settings → Pages → Custom domain**, enter the complete
+   hostname and click **Save**.
+3. At the DNS provider, create a `CNAME` record for `blogs` pointing to
+   `marktfkop.github.io`.
+4. After the DNS check succeeds, enable **Enforce HTTPS**.
+
+This project deploys with a custom GitHub Actions workflow, so a repository
+`CNAME` file is ignored and is not required. Verify the apex domain under your
+GitHub account settings to protect it from takeover. Follow [GitHub's current custom-domain guide](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+and [domain-verification guide](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages)
+for the current checks.
 
 ## Contributing
 
