@@ -6,5 +6,7 @@
   { "name": "Meta Engineering", "feed_url": "https://engineering.fb.com/feed/" },
   { "name": "Martin Fowler", "feed_url": "https://martinfowler.com/feed.atom" },
   { "name": "Spotify Engineering", "feed_url": "https://engineering.atspotify.com/feed/" },
-  { "name": "Arpit Bhayani", "feed_url": "https://arpitbhayani.me/rss.xml" }
+  { "name": "Arpit Bhayani", "feed_url": "https://arpitbhayani.me/rss.xml" },
+  { "name": "ByteByteGo", "feed_url": "https://blog.bytebytego.com/feed" }
 ]
+  
