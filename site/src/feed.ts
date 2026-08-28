@@ -14,7 +14,7 @@ interface PublishedRecord extends PostedRecord {
 }
 
 const FEED_URL =
-  "https://raw.githubusercontent.com/MarkTFKOP/good-engineer-blogs/main/posted.json";
+  "https://raw.githubusercontent.com/MarkTFKOP/good-engineer-blogs/main/posted.json?schema=2";
 const PAGE_SIZE = 24;
 
 const app = requireElement<HTMLDivElement>("#feed-app");
