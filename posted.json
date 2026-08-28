@@ -1,50 +1,50 @@
 [
   {
     "link": "https://arpitbhayani.me/blogs/making-http-requests-using-netcat",
-    "title": null,
-    "source": null,
-    "publishedAt": null
+    "title": "HTTP - The Hard Way with Netcat",
+    "source": "Arpit Bhayani",
+    "publishedAt": "2016-04-12T00:00:00.000Z"
   },
   {
     "link": "https://arpitbhayani.me/blogs/fast-and-efficient-pagination-in-mongodb",
-    "title": null,
-    "source": null,
-    "publishedAt": null
+    "title": "MongoDB Pagination - Two Approaches You Need to Know",
+    "source": "Arpit Bhayani",
+    "publishedAt": "2017-03-22T00:00:00.000Z"
   },
   {
     "link": "https://arpitbhayani.me/blogs/mongodb-cursor-skip-is-slow",
-    "title": null,
-    "source": null,
-    "publishedAt": null
+    "title": "MongoDB Pagination - Skip is Slow",
+    "source": "Arpit Bhayani",
+    "publishedAt": "2017-03-23T00:00:00.000Z"
   },
   {
     "link": "https://arpitbhayani.me/blogs/benchmark-and-compare-pagination-approach-in-mongodb",
-    "title": null,
-    "source": null,
-    "publishedAt": null
+    "title": "Analyzing MongoDB Pagination Performance Differences",
+    "source": "Arpit Bhayani",
+    "publishedAt": "2017-03-24T00:00:00.000Z"
   },
   {
     "link": "https://arpitbhayani.me/blogs/i-changed-my-python",
-    "title": null,
-    "source": null,
-    "publishedAt": null
+    "title": "Python Internals - I Made Addition Unpredictable",
+    "source": "Arpit Bhayani",
+    "publishedAt": "2020-01-03T00:00:00.000Z"
   },
   {
     "link": "https://arpitbhayani.me/blogs/long-integers-python",
-    "title": null,
-    "source": null,
-    "publishedAt": null
+    "title": "How Python Handles Gigantic Integers",
+    "source": "Arpit Bhayani",
+    "publishedAt": "2020-01-10T00:00:00.000Z"
   },
   {
     "link": "https://arpitbhayani.me/blogs/image-steganography",
-    "title": null,
-    "source": null,
-    "publishedAt": null
+    "title": "Image Steganography",
+    "source": "Arpit Bhayani",
+    "publishedAt": "2020-01-17T00:00:00.000Z"
   },
   {
     "link": "https://arpitbhayani.me/blogs/isolation-forest",
-    "title": null,
-    "source": null,
-    "publishedAt": null
+    "title": "Isolation Forest - Fast and Efficient Anomaly Detection",
+    "source": "Arpit Bhayani",
+    "publishedAt": "2020-01-31T00:00:00.000Z"
   }
 ]

@@ -76,9 +76,8 @@ bot. `feed.html` loads `posted.json` from the public repository at runtime, so
 new deliveries appear without rebuilding the site. The repository must remain
 public for that runtime request to work.
 
-Historical string-only records were migrated without display metadata and are
-intentionally hidden from the reading feed. New deliveries include the full
-metadata required by the page.
+Historical string-only records were backfilled from their source feed. New
+deliveries include the full metadata required by the page.
 
 Local development requires Node.js 22.12 or newer.
 

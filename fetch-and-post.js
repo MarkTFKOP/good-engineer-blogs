@@ -4,6 +4,7 @@ import Parser from "rss-parser";
 const SOURCES_PATH = new URL("./sources.json", import.meta.url);
 const POSTED_PATH = new URL("./posted.json", import.meta.url);
 const MAX_POSTS_PER_RUN = 8; // caps how many entries go to Slack in one run
+const SLACK_POST_TIMEOUT_MS = 30_000;
 
 const webhookUrl = process.env.SLACK_WEBHOOK_URL;
 if (!webhookUrl) {
@@ -21,7 +22,9 @@ const posted = new Set(records.map((record) => record.link));
 const parser = new Parser();
 
 async function fetchNewEntries(source) {
+  console.log(`Fetching ${source.name}.`);
   const feed = await parser.parseURL(source.feed_url);
+  console.log(`Fetched ${source.name}: ${feed.items.length} entries.`);
   return feed.items
     .filter((item) => item.link && !posted.has(item.link))
     .map((item) => {
@@ -43,9 +46,11 @@ async function fetchNewEntries(source) {
 }
 
 async function postToSlack(entry) {
+  console.log(`Posting ${entry.link}.`);
   const res = await fetch(webhookUrl, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
+    signal: AbortSignal.timeout(SLACK_POST_TIMEOUT_MS),
     body: JSON.stringify({
       message: `*${entry.source}*: ${entry.link}`,
     }),
@@ -53,6 +58,7 @@ async function postToSlack(entry) {
   if (!res.ok) {
     throw new Error(`Slack post failed (${res.status}): ${await res.text()}`);
   }
+  console.log(`Posted ${entry.link}.`);
 }
 
 async function main() {
