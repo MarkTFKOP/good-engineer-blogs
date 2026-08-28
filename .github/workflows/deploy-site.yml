@@ -36,9 +36,16 @@ jobs:
       - run: npm run build
         working-directory: site
 
+      - name: Arrange output under /blogs
+        run: |
+          mkdir -p deploy/blogs
+          cp -R site/dist/. deploy/blogs/
+          echo "good-engineer.justmarkphilip.com" > deploy/CNAME
+          printf '<!doctype html>\n<meta charset="utf-8">\n<meta http-equiv="refresh" content="0; url=/blogs/">\n<title>Good Engineer Blogs</title>\n<p><a href="/blogs/">Continue to Good Engineer Blogs</a></p>\n' > deploy/index.html
+
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: site/dist
+          path: deploy
 
   deploy:
     needs: build

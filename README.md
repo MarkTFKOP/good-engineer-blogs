@@ -93,26 +93,29 @@ npm run dev
 1. In **Settings → Pages**, set **Source** to **GitHub Actions**.
 2. Push a change under `site/` or run **Deploy site** manually.
 
-The deployment workflow publishes `site/dist` using GitHub's official Pages
-actions.
+The deployment workflow publishes the site at `/blogs/` and a small redirect at
+the domain root. `vite.config.ts` uses `/blogs/` as its base path so built asset
+and page URLs resolve under that prefix.
 
 ### Custom domain
 
-For a subdomain such as `blogs.example.com`:
+The production routes are:
 
-1. In your personal GitHub **Settings → Pages**, add and verify the apex domain
-   using the TXT record GitHub provides. Keep that TXT record in DNS.
-2. In the repository's **Settings → Pages → Custom domain**, enter the complete
-   hostname and click **Save**.
-3. At the DNS provider, create a `CNAME` record for `blogs` pointing to
-   `marktfkop.github.io`.
-4. After the DNS check succeeds, enable **Enforce HTTPS**.
+- `https://good-engineer.justmarkphilip.com/blogs/` — the site
+- `https://good-engineer.justmarkphilip.com/` — redirects to `/blogs/`
 
-This project deploys with a custom GitHub Actions workflow, so a repository
-`CNAME` file is ignored and is not required. Verify the apex domain under your
-GitHub account settings to protect it from takeover. Follow [GitHub's current custom-domain guide](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+The workflow stages the built site in `deploy/blogs/`, creates the root redirect,
+and writes the domain name to `deploy/CNAME`. GitHub Pages still takes the
+authoritative custom-domain setting from **Settings → Pages** when a custom
+Actions workflow is used; the artifact's `CNAME` file does not configure it.
+
+DNS uses a `CNAME` record for `good-engineer.justmarkphilip.com` pointing to
+`marktfkop.github.io`. After GitHub's DNS check succeeds, enable **Enforce
+HTTPS**. The domain is fixed in `.github/workflows/deploy-site.yml`; update that
+line, the site metadata, and the Pages setting together if it changes. Follow
+[GitHub's custom-domain guide](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 and [domain-verification guide](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages)
-for the current checks.
+for current requirements.
 
 ## Contributing
 
