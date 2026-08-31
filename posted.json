@@ -142,5 +142,53 @@
     "title": "Making Integers Iterable in Python",
     "link": "https://arpitbhayani.me/blogs/python-iterable-integers",
     "publishedAt": "2020-06-14T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "ETAOIN SHRDLU - Using Letter Frequency to Decipher the Ciphered",
+    "link": "https://arpitbhayani.me/blogs/decipher-single-xor",
+    "publishedAt": "2020-06-21T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "10x Engineer DNA",
+    "link": "https://arpitbhayani.me/blogs/10x-engineer",
+    "publishedAt": "2020-07-05T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Breaking Repeating-Key XOR Encryption",
+    "link": "https://arpitbhayani.me/blogs/decipher-repeated-key-xor",
+    "publishedAt": "2020-07-05T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Phi Accrual Failure Detection Algorithm",
+    "link": "https://arpitbhayani.me/blogs/phi-accrual",
+    "publishedAt": "2020-07-12T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Bitcask - A Log-Structured fast KV store",
+    "link": "https://arpitbhayani.me/blogs/bitcask",
+    "publishedAt": "2020-07-19T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Why Slowsort is Hilariously Inefficient",
+    "link": "https://arpitbhayani.me/blogs/slowsort",
+    "publishedAt": "2020-07-26T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Space-Efficient Counting - Exploring Morris' Algorithm",
+    "link": "https://arpitbhayani.me/blogs/morris-counter",
+    "publishedAt": "2020-08-02T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Implementing LFU in O(1)",
+    "link": "https://arpitbhayani.me/blogs/lfu",
+    "publishedAt": "2020-08-23T00:00:00.000Z"
   }
 ]
