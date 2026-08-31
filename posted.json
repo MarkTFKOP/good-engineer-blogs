@@ -94,5 +94,53 @@
     "title": "Modeling Finite State Machines with Python Coroutines",
     "link": "https://arpitbhayani.me/blogs/fsm-python",
     "publishedAt": "2020-04-19T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "How MySQL Avoids Performance Hits from Table Scans",
+    "link": "https://arpitbhayani.me/blogs/midpoint-insertion-caching-strategy",
+    "publishedAt": "2020-04-26T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Copy-On-Write - When to Use It, When to Avoid It",
+    "link": "https://arpitbhayani.me/blogs/copy-on-write",
+    "publishedAt": "2020-05-03T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Fractional Cascading - Speeding Up Multiple Binary Searches",
+    "link": "https://arpitbhayani.me/blogs/fractional-cascading",
+    "publishedAt": "2020-05-10T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "How Python Handles Integers Under the Hood",
+    "link": "https://arpitbhayani.me/blogs/python-caches-integers",
+    "publishedAt": "2020-05-17T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Consistent Hashing - What It Is and How to Implement It",
+    "link": "https://arpitbhayani.me/blogs/consistent-hashing",
+    "publishedAt": "2020-05-24T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "The RUM Conjecture - Storage System Trade-offs",
+    "link": "https://arpitbhayani.me/blogs/rum",
+    "publishedAt": "2020-05-31T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Structure Composition and Emulating Inheritance in C",
+    "link": "https://arpitbhayani.me/blogs/inheritance-c",
+    "publishedAt": "2020-06-07T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Making Integers Iterable in Python",
+    "link": "https://arpitbhayani.me/blogs/python-iterable-integers",
+    "publishedAt": "2020-06-14T00:00:00.000Z"
   }
 ]
