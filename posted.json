@@ -190,5 +190,53 @@
     "title": "Implementing LFU in O(1)",
     "link": "https://arpitbhayani.me/blogs/lfu",
     "publishedAt": "2020-08-23T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Time Series Smoothing for Anomaly Detection",
+    "link": "https://arpitbhayani.me/blogs/ts-smoothing",
+    "publishedAt": "2020-11-01T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "MinHash - Fast Jaccard Similarity at Scale",
+    "link": "https://arpitbhayani.me/blogs/jaccard-minhash",
+    "publishedAt": "2020-11-08T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "1D Terrain Generation",
+    "link": "https://arpitbhayani.me/blogs/1d-terrain",
+    "publishedAt": "2020-11-16T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Israeli Queues",
+    "link": "https://arpitbhayani.me/blogs/israeli-queues",
+    "publishedAt": "2020-11-22T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "The 2Q Algorithm - Addressing LRU's Sub-Optimality",
+    "link": "https://arpitbhayani.me/blogs/2q-cache",
+    "publishedAt": "2020-11-29T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Count Distinct With Minimal Memory - Flajolet Martin Algorithm",
+    "link": "https://arpitbhayani.me/blogs/flajolet-martin",
+    "publishedAt": "2020-12-06T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Visualizing Recursion in Python with Just a Decorator",
+    "link": "https://arpitbhayani.me/blogs/recursion-visualizer-python",
+    "publishedAt": "2020-12-13T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "How Python Uses String Interning to Keep Runtime Efficient",
+    "link": "https://arpitbhayani.me/blogs/string-interning-python",
+    "publishedAt": "2020-12-20T00:00:00.000Z"
   }
 ]
