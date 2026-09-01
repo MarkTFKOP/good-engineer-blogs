@@ -238,5 +238,53 @@
     "title": "How Python Uses String Interning to Keep Runtime Efficient",
     "link": "https://arpitbhayani.me/blogs/string-interning-python",
     "publishedAt": "2020-12-20T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Constant Folding in Python",
+    "link": "https://arpitbhayani.me/blogs/constant-folding-python",
+    "publishedAt": "2021-01-10T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "How Persistent Data Structures Work",
+    "link": "https://arpitbhayani.me/blogs/persistent-data-structures-introduction",
+    "publishedAt": "2021-02-07T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Fully Persistent Arrays",
+    "link": "https://arpitbhayani.me/blogs/fully-persistent-arrays",
+    "publishedAt": "2021-02-15T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "I Changed the Rules for the Python's Walrus Operator",
+    "link": "https://arpitbhayani.me/blogs/the-weird-walrus",
+    "publishedAt": "2021-04-01T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Modeling Udemy's Categories in a Relational Database",
+    "link": "https://arpitbhayani.me/blogs/taxonomy-on-sql",
+    "publishedAt": "2021-04-19T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Python Internals - Exploring Chained Comparison Operators",
+    "link": "https://arpitbhayani.me/blogs/chained-operators-python",
+    "publishedAt": "2021-04-28T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Fork Bomb",
+    "link": "https://arpitbhayani.me/blogs/fork-bomb",
+    "publishedAt": "2021-06-09T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Fallacies of Distributed Computing Every Engineer Should Know",
+    "link": "https://arpitbhayani.me/blogs/mistaken-beliefs-of-distributed-systems",
+    "publishedAt": "2021-06-17T00:00:00.000Z"
   }
 ]
