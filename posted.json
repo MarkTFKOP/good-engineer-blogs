@@ -286,5 +286,53 @@
     "title": "Fallacies of Distributed Computing Every Engineer Should Know",
     "link": "https://arpitbhayani.me/blogs/mistaken-beliefs-of-distributed-systems",
     "publishedAt": "2021-06-17T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Architectural Patterns for Distributed Systems",
+    "link": "https://arpitbhayani.me/blogs/architectures-in-distributed-systems",
+    "publishedAt": "2021-06-22T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Decoding Atomicity - The A in ACID",
+    "link": "https://arpitbhayani.me/blogs/atomicity",
+    "publishedAt": "2021-07-02T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Decoding Consistency - The C in ACID",
+    "link": "https://arpitbhayani.me/blogs/consistency",
+    "publishedAt": "2021-07-02T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Decoding Isolation - The I in ACID",
+    "link": "https://arpitbhayani.me/blogs/isolation",
+    "publishedAt": "2021-07-07T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Decoding Durability - The D in ACID",
+    "link": "https://arpitbhayani.me/blogs/durability",
+    "publishedAt": "2021-07-19T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Master-Replica Replication",
+    "link": "https://arpitbhayani.me/blogs/master-replica-replication",
+    "publishedAt": "2021-08-07T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Replication Strategies - Synchronous, Asynchronous, and Semi-Synchronous",
+    "link": "https://arpitbhayani.me/blogs/replication-strategies",
+    "publishedAt": "2021-08-10T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Replication Formats - Statement vs Row-based",
+    "link": "https://arpitbhayani.me/blogs/replication-formats",
+    "publishedAt": "2021-08-15T00:00:00.000Z"
   }
 ]
