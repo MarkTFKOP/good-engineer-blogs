@@ -334,5 +334,53 @@
     "title": "Replication Formats - Statement vs Row-based",
     "link": "https://arpitbhayani.me/blogs/replication-formats",
     "publishedAt": "2021-08-15T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "What Happens When a Master or Replica Fails",
+    "link": "https://arpitbhayani.me/blogs/handling-outages-master-replica",
+    "publishedAt": "2021-09-07T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Read-Your-Writes Consistency",
+    "link": "https://arpitbhayani.me/blogs/read-your-write-consistency",
+    "publishedAt": "2021-09-22T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Monotonic Reads - How Asynchronous Replication Creates Wormholes",
+    "link": "https://arpitbhayani.me/blogs/monotonic-reads",
+    "publishedAt": "2021-10-03T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Multi-Master Replication - Scaling Writes Across Geographies",
+    "link": "https://arpitbhayani.me/blogs/multi-master-replication",
+    "publishedAt": "2021-11-03T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Multi-Master Replication - Why Conflicts Happen",
+    "link": "https://arpitbhayani.me/blogs/conflict-detection",
+    "publishedAt": "2021-11-28T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Multi-Master Conflicts - How to Handle Them",
+    "link": "https://arpitbhayani.me/blogs/conflict-resolution",
+    "publishedAt": "2022-01-03T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Leaderless Replication",
+    "link": "https://arpitbhayani.me/blogs/leaderless-replication",
+    "publishedAt": "2022-01-16T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Partitioning Strategies for Distributed Databases",
+    "link": "https://arpitbhayani.me/blogs/data-partitioning",
+    "publishedAt": "2022-01-24T00:00:00.000Z"
   }
 ]
