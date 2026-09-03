@@ -382,5 +382,53 @@
     "title": "Partitioning Strategies for Distributed Databases",
     "link": "https://arpitbhayani.me/blogs/data-partitioning",
     "publishedAt": "2022-01-24T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Habits that Make a Great Programmer",
+    "link": "https://arpitbhayani.me/notes/better-programmer",
+    "publishedAt": "2020-02-28T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "10x Engineer DNA",
+    "link": "https://arpitbhayani.me/notes/10x-engineer",
+    "publishedAt": "2020-07-05T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Partitioning Data - Range, Hash, and When to Use Them",
+    "link": "https://arpitbhayani.me/blogs/some-data-partitioning-strategies-for-distributed-data-stores",
+    "publishedAt": "2022-01-31T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Local vs Global Indexes in Partitioned Databases",
+    "link": "https://arpitbhayani.me/blogs/how-indexes-work-on-partitioned-and-sharded-data",
+    "publishedAt": "2022-02-07T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Generating Pseudorandom Numbers with LFSR",
+    "link": "https://arpitbhayani.me/blogs/pseudorandom-number-generation-lfsr",
+    "publishedAt": "2022-02-21T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Solving the Knapsack Problem with Evolutionary Algorithms",
+    "link": "https://arpitbhayani.me/blogs/genetic-knapsack",
+    "publishedAt": "2022-03-07T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Engineering Leaders Focus on High-Impact Projects",
+    "link": "https://arpitbhayani.me/notes/engineering-leaders-focus-on-high-impact-projects",
+    "publishedAt": "2023-05-04T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Ambitious versus achievable goals, learn both traits",
+    "link": "https://arpitbhayani.me/notes/ambitious-versus-achievable-goals-learn-both-traits",
+    "publishedAt": "2023-05-22T00:00:00.000Z"
   }
 ]
