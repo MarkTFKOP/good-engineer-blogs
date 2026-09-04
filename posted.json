@@ -526,5 +526,53 @@
     "title": "I read ~3 books 📚 a month, and here's what has worked for me 👇",
     "link": "https://arpitbhayani.me/notes/i-read-3-books-a-month-and-heres-what-has",
     "publishedAt": "2021-11-23T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Essay : Conflict Resolution in Multi-Master setup",
+    "link": "https://arpitbhayani.me/notes/essay-conflict-resolution-in-multi-master-setup",
+    "publishedAt": "2022-01-09T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Essay : Leaderless Replication to have Strong Consistency in Distributed Database",
+    "link": "https://arpitbhayani.me/notes/essay-leaderless-replication-to-have-strong-consistency-in-distributed-database",
+    "publishedAt": "2022-01-17T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Essay : An Introduction to Data Partitioning",
+    "link": "https://arpitbhayani.me/notes/essay-an-introduction-to-data-partitioning",
+    "publishedAt": "2022-01-25T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Essay : Data Partitioning Strategies",
+    "link": "https://arpitbhayani.me/notes/essay-data-partitioning-strategies",
+    "publishedAt": "2022-01-31T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Essay : Indexing on a Partitioned Data",
+    "link": "https://arpitbhayani.me/notes/essay-indexing-on-a-partitioned-data",
+    "publishedAt": "2022-02-07T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Ever wondered how random numbers are generated algorithmically",
+    "link": "https://arpitbhayani.me/notes/ever-wondered-how-random-numbers-are-generated-algorithmically",
+    "publishedAt": "2022-02-21T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "The dynamic programming solution of the 0/1 Knapsack Problem has",
+    "link": "https://arpitbhayani.me/notes/the-dynamic-programming-solution-of-the-01-knapsack-problem-has",
+    "publishedAt": "2022-03-07T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "There is no better resource to learn anything in-depth than",
+    "link": "https://arpitbhayani.me/notes/there-is-no-better-resource-to-learn-anything-in-depth-than",
+    "publishedAt": "2022-03-13T00:00:00.000Z"
   }
 ]
