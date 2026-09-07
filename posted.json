@@ -622,5 +622,53 @@
     "title": "How databases are upgraded in production",
     "link": "https://arpitbhayani.me/notes/how-databases-are-upgraded-in-production",
     "publishedAt": "2022-09-14T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "How to Remain Unblocked",
+    "link": "https://arpitbhayani.me/blogs/keep-yourself-unblocked",
+    "publishedAt": "2023-11-16T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Paper Notes - WTF - The Who to Follow Service at Twitter",
+    "link": "https://arpitbhayani.me/blogs/wtf-the-who-to-follow-service-at-twitter",
+    "publishedAt": "2024-08-21T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Paper Notes - NanoLog - A Nanosecond Scale Logging System",
+    "link": "https://arpitbhayani.me/blogs/nanolog-a-nanosecond-scale-logging-system",
+    "publishedAt": "2024-08-28T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Paper Notes - SQL Has Problems. We Can Fix Them Pipe Syntax In SQL",
+    "link": "https://arpitbhayani.me/blogs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql",
+    "publishedAt": "2024-09-03T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Paper Notes - On-demand Container Loading in AWS Lambda",
+    "link": "https://arpitbhayani.me/blogs/on-demand-container-loading-in-aws-lambda",
+    "publishedAt": "2024-09-15T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "When to Change Jobs - The 3P Framework",
+    "link": "https://arpitbhayani.me/blogs/3p",
+    "publishedAt": "2024-10-19T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Theta sketches: set algebra over massive streams",
+    "link": "https://arpitbhayani.me/blogs/theta-sketches",
+    "publishedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "How to Write Effective OKRs",
+    "link": "https://arpitbhayani.me/blogs/okr",
+    "publishedAt": "2025-02-07T00:00:00.000Z"
   }
 ]
