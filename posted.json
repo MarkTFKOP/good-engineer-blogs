@@ -670,5 +670,53 @@
     "title": "How to Write Effective OKRs",
     "link": "https://arpitbhayani.me/blogs/okr",
     "publishedAt": "2025-02-07T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Why does DNS use both UDP and TCP",
+    "link": "https://arpitbhayani.me/blogs/dns-udp-tcp",
+    "publishedAt": "2025-09-02T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Why Eventual Consistency is Preferred in Distributed Systems",
+    "link": "https://arpitbhayani.me/blogs/eventual-consistency",
+    "publishedAt": "2025-09-03T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Why and How Cache Locality Can Make Your Code Faster",
+    "link": "https://arpitbhayani.me/blogs/cpu-cache-locality",
+    "publishedAt": "2025-09-04T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Why Do Databases Deadlock and How Do They Resolve It",
+    "link": "https://arpitbhayani.me/blogs/database-deadlocks",
+    "publishedAt": "2025-09-05T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Why Distributed Systems Need Consensus Algorithms Like Raft",
+    "link": "https://arpitbhayani.me/blogs/why-consensus",
+    "publishedAt": "2025-09-06T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Why gRPC Uses HTTP2",
+    "link": "https://arpitbhayani.me/blogs/grpc-http2",
+    "publishedAt": "2025-09-24T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "How Does a CDN Handle Content Replication",
+    "link": "https://arpitbhayani.me/blogs/cdn-content-replication",
+    "publishedAt": "2025-10-02T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Redis Replication Internals",
+    "link": "https://arpitbhayani.me/blogs/redis-replication",
+    "publishedAt": "2025-10-17T00:00:00.000Z"
   }
 ]
