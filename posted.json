@@ -718,5 +718,53 @@
     "title": "Redis Replication Internals",
     "link": "https://arpitbhayani.me/blogs/redis-replication",
     "publishedAt": "2025-10-17T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "How Writes Work in Apache Cassandra",
+    "link": "https://arpitbhayani.me/blogs/cassandra-writes",
+    "publishedAt": "2025-10-20T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Heartbeats in Distributed Systems",
+    "link": "https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems",
+    "publishedAt": "2025-11-12T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "What are Blocking Queues and Why We Need Them",
+    "link": "https://arpitbhayani.me/blogs/blocking-queues",
+    "publishedAt": "2025-11-14T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "How LLM Inference Works",
+    "link": "https://arpitbhayani.me/blogs/how-llm-inference-works",
+    "publishedAt": "2025-11-22T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "The Q, K, V Matrices",
+    "link": "https://arpitbhayani.me/blogs/qkv-matrices",
+    "publishedAt": "2025-11-26T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Product Quantization",
+    "link": "https://arpitbhayani.me/blogs/product-quantization",
+    "publishedAt": "2025-12-07T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "When You Increase Kafka Partitions",
+    "link": "https://arpitbhayani.me/blogs/kafka-partitions",
+    "publishedAt": "2025-12-13T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Clock Synchronization Is a Nightmare",
+    "link": "https://arpitbhayani.me/blogs/clock-sync-nightmare",
+    "publishedAt": "2025-12-23T00:00:00.000Z"
   }
 ]
