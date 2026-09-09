@@ -766,5 +766,53 @@
     "title": "Clock Synchronization Is a Nightmare",
     "link": "https://arpitbhayani.me/blogs/clock-sync-nightmare",
     "publishedAt": "2025-12-23T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Bloom Filters",
+    "link": "https://arpitbhayani.me/blogs/bloom-filters",
+    "publishedAt": "2025-12-29T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "MySQL Replication Internals",
+    "link": "https://arpitbhayani.me/blogs/mysql-replication-internals",
+    "publishedAt": "2026-01-16T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Multi-Paxos - Consensus in Distributed Databases",
+    "link": "https://arpitbhayani.me/blogs/multi-paxos",
+    "publishedAt": "2026-01-27T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Why Half Your Skills Expire Every Few Years",
+    "link": "https://arpitbhayani.me/blogs/half-life",
+    "publishedAt": "2026-02-08T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "JOIN Algorithms",
+    "link": "https://arpitbhayani.me/blogs/join-algorithms",
+    "publishedAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "BM25",
+    "link": "https://arpitbhayani.me/blogs/bm25",
+    "publishedAt": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Databases Were Not Designed For This",
+    "link": "https://arpitbhayani.me/blogs/defensive-databases",
+    "publishedAt": "2026-03-08T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "The Curse of Dimensionality",
+    "link": "https://arpitbhayani.me/blogs/curse-of-dimensionality",
+    "publishedAt": "2026-04-23T00:00:00.000Z"
   }
 ]
