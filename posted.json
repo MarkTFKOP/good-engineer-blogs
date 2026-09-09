@@ -814,5 +814,53 @@
     "title": "The Curse of Dimensionality",
     "link": "https://arpitbhayani.me/blogs/curse-of-dimensionality",
     "publishedAt": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Your Monolith Is Already A Distributed System",
+    "link": "https://arpitbhayani.me/blogs/monolith-is-distributed-system",
+    "publishedAt": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "How LLMs Really Work",
+    "link": "https://arpitbhayani.me/blogs/how-llms-work",
+    "publishedAt": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Structure of Every LLM Chat",
+    "link": "https://arpitbhayani.me/blogs/structure-of-llm-chat",
+    "publishedAt": "2026-05-13T00:00:00.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "Viaduct 1.0 and the future of Airbnb’s data mesh",
+    "link": "https://airbnb.tech/infrastructure/viaduct-1-0-and-the-future-of-airbnbs-data-mesh/",
+    "publishedAt": "2026-05-13T19:27:36.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "What Matters in Production RAG",
+    "link": "https://arpitbhayani.me/blogs/rag-production",
+    "publishedAt": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "Scaling Airbnb’s identity graph with a unified knowledge graph infrastructure",
+    "link": "https://airbnb.tech/infrastructure/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure/",
+    "publishedAt": "2026-05-19T17:51:47.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Temporal Primer - Building Long-Running Systems",
+    "link": "https://arpitbhayani.me/blogs/temporal-primer",
+    "publishedAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Bliki: Vibe Coding",
+    "link": "https://martinfowler.com/bliki/VibeCoding.html",
+    "publishedAt": "2026-05-21T11:49:00.000Z"
   }
 ]
