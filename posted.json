@@ -862,5 +862,53 @@
     "title": "Bliki: Vibe Coding",
     "link": "https://martinfowler.com/bliki/VibeCoding.html",
     "publishedAt": "2026-05-21T11:49:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "The VibeSec Reckoning",
+    "link": "https://martinfowler.com/articles/vibesec-reckoning.html",
+    "publishedAt": "2026-05-27T14:03:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "The test suite as a regression sensor",
+    "link": "https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor",
+    "publishedAt": "2026-05-27T15:01:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Embedding Models Make Or Break Your Ai App",
+    "link": "https://arpitbhayani.me/blogs/embedding-models-make-or-break-your-ai-app",
+    "publishedAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "AI Workflows Need Topological Sort",
+    "link": "https://arpitbhayani.me/blogs/ai-topological-sort",
+    "publishedAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: June  2",
+    "link": "https://martinfowler.com/fragments/2026-06-02.html",
+    "publishedAt": "2026-06-02T15:21:00.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "When history fails you, borrow from geography",
+    "link": "https://airbnb.tech/data/when-history-fails-you-borrow-from-geography/",
+    "publishedAt": "2026-06-03T22:19:25.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "Sitar-agent: Building a reliable dynamic configuration sidecar at scale",
+    "link": "https://airbnb.tech/infrastructure/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale/",
+    "publishedAt": "2026-06-04T21:06:52.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world",
+    "link": "https://airbnb.tech/uncategorized/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world/",
+    "publishedAt": "2026-06-09T19:34:04.000Z"
   }
 ]
