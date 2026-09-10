@@ -910,5 +910,53 @@
     "title": "Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world",
     "link": "https://airbnb.tech/uncategorized/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world/",
     "publishedAt": "2026-06-09T19:34:04.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Building Reliable Agentic AI Systems",
+    "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "publishedAt": "2026-06-16T12:11:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: June 16",
+    "link": "https://martinfowler.com/fragments/2026-06-16.html",
+    "publishedAt": "2026-06-16T12:44:00.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "How Netflix Simplified Batch Compute with Kueue",
+    "link": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-06-22T21:35:01.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
+    "link": "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-06-23T00:31:01.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
+    "link": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-06-29T13:01:02.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+    "publishedAt": "2026-06-30T20:56:44.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
+    "link": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
+    "publishedAt": "2026-06-30T21:30:33.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
+    "link": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
+    "publishedAt": "2026-07-01T17:20:30.000Z"
   }
 ]
