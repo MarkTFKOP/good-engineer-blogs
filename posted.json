@@ -1006,5 +1006,53 @@
     "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
     "link": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/",
     "publishedAt": "2026-07-13T18:13:57.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
+    "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-07-13T22:44:11.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "G-Eval, Explained",
+    "link": "https://arpitbhayani.me/blogs/g-eval",
+    "publishedAt": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "DSLs Enable Reliable Use of LLMs",
+    "link": "https://martinfowler.com/articles/llm-and-dsls.html",
+    "publishedAt": "2026-07-14T12:51:00.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
+    "link": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "publishedAt": "2026-07-15T17:00:52.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "The Archaeologist’s Copilot",
+    "link": "https://martinfowler.com/articles/archaeologist-copilot.html",
+    "publishedAt": "2026-07-16T13:25:00.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "In-House LLM Serving at Netflix",
+    "link": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-07-17T21:32:39.000Z"
+  },
+  {
+    "source": "Spotify Engineering",
+    "title": "Content Ingestion & Podcast Video Incident Report ",
+    "link": "https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/",
+    "publishedAt": "2026-07-20T16:24:48.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
+    "publishedAt": "2026-07-20T16:37:34.000Z"
   }
 ]
