@@ -1102,5 +1102,53 @@
     "title": "The Economic Benefit of Refactoring",
     "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
     "publishedAt": "2026-07-30T13:04:00.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
+    "link": "https://airbnb.tech/ai-ml/eval-driven-development-lessons-from-evaluating-genai-at-scale/",
+    "publishedAt": "2026-07-30T17:27:06.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+    "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-07-30T20:10:15.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Three Claude Skills I Think Every Org Should Have",
+    "link": "https://arpitbhayani.me/blogs/three-skills",
+    "publishedAt": "2026-07-31T00:00:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "The Conductor Developer",
+    "link": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
+    "publishedAt": "2026-07-31T13:48:00.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "Modeling Device Capabilities for Analytics",
+    "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-07-31T16:01:02.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
+    "publishedAt": "2026-08-03T16:12:30.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
+    "link": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
+    "publishedAt": "2026-08-03T18:00:17.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: August  4",
+    "link": "https://martinfowler.com/fragments/2026-08-04.html",
+    "publishedAt": "2026-08-04T12:08:00.000Z"
   }
 ]
