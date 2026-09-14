@@ -1054,5 +1054,53 @@
     "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
     "publishedAt": "2026-07-20T16:37:34.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: July 21",
+    "link": "https://martinfowler.com/fragments/2026-07-21.html",
+    "publishedAt": "2026-07-21T13:13:00.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/",
+    "publishedAt": "2026-07-27T14:54:41.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "From weeks to a day: how we made LLM evaluation fast enough to iterate on",
+    "link": "https://airbnb.tech/ai-ml/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on/",
+    "publishedAt": "2026-07-27T18:57:46.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "Personalizing Airbnb search by learning from the guest journey",
+    "link": "https://airbnb.tech/ai-ml/personalizing-airbnb-search-by-learning-from-the-guest-journey/",
+    "publishedAt": "2026-07-27T19:00:17.000Z"
+  },
+  {
+    "source": "Spotify Engineering",
+    "title": "Indexing the Data Lake for Online Point Queries",
+    "link": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/",
+    "publishedAt": "2026-07-27T20:34:28.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Why I’m Writing Rachel’s Ramblings",
+    "link": "https://martinfowler.com/rachels-ramblings/intro.html",
+    "publishedAt": "2026-07-28T12:32:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "The Orchestrator's Tax",
+    "link": "https://martinfowler.com/articles/orchestrator-tax.html",
+    "publishedAt": "2026-07-28T13:10:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "The Economic Benefit of Refactoring",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+    "publishedAt": "2026-07-30T13:04:00.000Z"
   }
 ]
