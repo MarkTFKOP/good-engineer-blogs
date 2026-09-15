@@ -1150,5 +1150,53 @@
     "title": "Fragments: August  4",
     "link": "https://martinfowler.com/fragments/2026-08-04.html",
     "publishedAt": "2026-08-04T12:08:00.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Amazon DynamoDB now supports real-time vector search at any scale",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/",
+    "publishedAt": "2026-08-05T14:45:10.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking",
+    "link": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
+    "publishedAt": "2026-08-05T19:20:20.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "What AI First Engineering Orgs Look Like",
+    "link": "https://arpitbhayani.me/blogs/ai-first-org",
+    "publishedAt": "2026-08-06T00:00:00.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
+    "publishedAt": "2026-08-06T22:58:00.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+    "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-08-07T16:01:02.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/",
+    "publishedAt": "2026-08-10T15:45:03.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Everything we launched during Agents Week",
+    "link": "https://blog.cloudflare.com/agents-week-review-august-2026/",
+    "publishedAt": "2026-08-10T18:34:10.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "TDD inside the agent loop - theater or actual value?",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
+    "publishedAt": "2026-08-11T11:39:00.000Z"
   }
 ]
