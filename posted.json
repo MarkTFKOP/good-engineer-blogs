@@ -1294,5 +1294,53 @@
     "title": "From all-or-nothing to task-based OAuth consent",
     "link": "https://blog.cloudflare.com/task-based-oauth-consent/",
     "publishedAt": "2026-08-20T17:03:03.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "How we knew COVID was over (and what our models had to unlearn)",
+    "link": "https://airbnb.tech/ai-ml/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn/",
+    "publishedAt": "2026-08-20T19:33:16.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Slop Debt",
+    "link": "https://arpitbhayani.me/blogs/slop-debt",
+    "publishedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "A Tale of Two Flink Autoscalers",
+    "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-08-21T16:01:01.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
+    "link": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/",
+    "publishedAt": "2026-08-21T18:53:26.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Say it once: introducing Bot Preference Sync",
+    "link": "https://blog.cloudflare.com/bot-preference-sync/",
+    "publishedAt": "2026-08-21T23:19:57.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "EP223: Ollama vs vLLM vs SGLang",
+    "link": "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang",
+    "publishedAt": "2026-08-22T15:31:34.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: August 24",
+    "link": "https://martinfowler.com/fragments/2026-08-24.html",
+    "publishedAt": "2026-08-24T15:29:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Why Code Verification Matters More Than Ever in the Age of AI",
+    "link": "https://blog.bytebytego.com/p/why-code-verification-matters-more",
+    "publishedAt": "2026-08-24T15:31:01.000Z"
   }
 ]
