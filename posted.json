@@ -1246,5 +1246,53 @@
     "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
     "publishedAt": "2026-08-17T16:02:36.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
+    "link": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
+    "publishedAt": "2026-08-18T13:58:41.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: August 18",
+    "link": "https://martinfowler.com/fragments/2026-08-18.html",
+    "publishedAt": "2026-08-18T15:04:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "BGP Role model: tracking the adoption of RFC 9234",
+    "link": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
+    "publishedAt": "2026-08-18T15:21:32.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+    "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+    "publishedAt": "2026-08-19T16:00:28.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Practitioner Voice: The Writing Category Nobody has Named Yet",
+    "link": "https://martinfowler.com/articles/practitioner-voice.html",
+    "publishedAt": "2026-08-19T18:15:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Citizens Build, Agents Execute, Experts Govern",
+    "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
+    "publishedAt": "2026-08-19T18:30:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Schema Evolution: Changing the Contract Without Breaking What Runs",
+    "link": "https://blog.bytebytego.com/p/schema-evolution-changing-the-contract",
+    "publishedAt": "2026-08-20T15:32:18.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "From all-or-nothing to task-based OAuth consent",
+    "link": "https://blog.cloudflare.com/task-based-oauth-consent/",
+    "publishedAt": "2026-08-20T17:03:03.000Z"
   }
 ]
