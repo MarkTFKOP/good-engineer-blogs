@@ -1342,5 +1342,53 @@
     "title": "Why Code Verification Matters More Than Ever in the Age of AI",
     "link": "https://blog.bytebytego.com/p/why-code-verification-matters-more",
     "publishedAt": "2026-08-24T15:31:01.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
+    "publishedAt": "2026-08-24T16:20:15.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
+    "link": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
+    "publishedAt": "2026-08-24T17:45:52.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
+    "link": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+    "publishedAt": "2026-08-24T18:02:29.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "The Cloudflare Blog — brought to you by EmDash",
+    "link": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
+    "publishedAt": "2026-08-24T19:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How to Steal an AI Model’s Private Thoughts",
+    "link": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private",
+    "publishedAt": "2026-08-25T15:31:09.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Happy 20th Birthday, Amazon EC2",
+    "link": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/",
+    "publishedAt": "2026-08-25T16:11:02.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How to Make LLMs 3X Faster",
+    "link": "https://blog.bytebytego.com/p/how-to-make-llms-3x-faster",
+    "publishedAt": "2026-08-26T15:30:34.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Making Your Data Ready for Agentic AI",
+    "link": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+    "publishedAt": "2026-08-27T13:11:00.000Z"
   }
 ]
