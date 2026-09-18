@@ -1438,5 +1438,53 @@
     "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
     "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
     "publishedAt": "2026-08-31T19:53:34.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+    "link": "https://blog.cloudflare.com/cache-transcoding/",
+    "publishedAt": "2026-09-01T12:59:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How to Shrink a Language Model Without Making it Too Dumb",
+    "link": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295",
+    "publishedAt": "2026-09-01T15:30:41.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: September  1",
+    "link": "https://martinfowler.com/fragments/2026-09-01.html",
+    "publishedAt": "2026-09-01T19:50:00.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
+    "link": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+    "publishedAt": "2026-09-02T09:00:29.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Maybe We Shouldn't Be Reviewing All This Code",
+    "link": "https://martinfowler.com/rachels-ramblings/code-review.html",
+    "publishedAt": "2026-09-02T13:32:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "An Accidental Blackboard",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+    "publishedAt": "2026-09-02T14:45:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Why Your RAG System Is Only as Good as Its Translator Model",
+    "link": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without",
+    "publishedAt": "2026-09-02T15:31:12.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Bliki: Paracelsus Maxim",
+    "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+    "publishedAt": "2026-09-02T22:03:00.000Z"
   }
 ]
