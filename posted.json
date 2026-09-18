@@ -1486,5 +1486,53 @@
     "title": "Bliki: Paracelsus Maxim",
     "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
     "publishedAt": "2026-09-02T22:03:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How Databases Keep Their Sanity with Concurrency Control",
+    "link": "https://blog.bytebytego.com/p/how-databases-keep-their-sanity-with",
+    "publishedAt": "2026-09-03T15:31:17.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
+    "link": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
+    "publishedAt": "2026-09-03T16:00:20.000Z"
+  },
+  {
+    "source": "Spotify Engineering",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/",
+    "publishedAt": "2026-09-03T16:06:40.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+    "link": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+    "publishedAt": "2026-09-03T21:03:02.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "EP224: MCP vs RAG vs AI Agents",
+    "link": "https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents",
+    "publishedAt": "2026-09-05T15:30:58.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
+    "publishedAt": "2026-09-07T14:24:08.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How to Deal With Errors and Failures in LLM-Powered Applications",
+    "link": "https://blog.bytebytego.com/p/how-to-deal-with-errors-and-failures",
+    "publishedAt": "2026-09-07T15:31:35.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+    "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+    "publishedAt": "2026-09-08T13:10:00.000Z"
   }
 ]
