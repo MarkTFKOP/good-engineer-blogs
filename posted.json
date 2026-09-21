@@ -1534,5 +1534,53 @@
     "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
     "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
     "publishedAt": "2026-09-08T13:10:00.000Z"
+  },
+  {
+    "source": "Spotify Engineering",
+    "title": "Why Spotify Is Not Using Bayesian A/B Testing",
+    "link": "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/",
+    "publishedAt": "2026-09-08T13:18:44.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Do you even need a presentation?",
+    "link": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
+    "publishedAt": "2026-09-08T13:42:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: September  8",
+    "link": "https://martinfowler.com/fragments/2026-09-08.html",
+    "publishedAt": "2026-09-08T15:22:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Built for Reliability: How American Express Processes Payments at Scale",
+    "link": "https://blog.bytebytego.com/p/built-for-reliability-how-american",
+    "publishedAt": "2026-09-08T18:31:03.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
+    "link": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
+    "publishedAt": "2026-09-09T13:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How Smart Model Routing Can Cut LLM Costs by 10X",
+    "link": "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm",
+    "publishedAt": "2026-09-09T15:30:26.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Social Media Engagement: summer 2026",
+    "link": "https://martinfowler.com/articles/2026-social-traffic.html",
+    "publishedAt": "2026-09-09T16:21:00.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/",
+    "publishedAt": "2026-09-09T22:01:47.000Z"
   }
 ]
