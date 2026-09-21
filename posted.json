@@ -1582,5 +1582,53 @@
     "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
     "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/",
     "publishedAt": "2026-09-09T22:01:47.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+    "link": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+    "publishedAt": "2026-09-10T13:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "A Guide to Application Networking Basics",
+    "link": "https://blog.bytebytego.com/p/a-guide-to-application-networking",
+    "publishedAt": "2026-09-10T15:31:28.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing automatic remediation policies with Cloudflare CASB",
+    "link": "https://blog.cloudflare.com/casb-policies/",
+    "publishedAt": "2026-09-11T13:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Learn Claude Code, evals, AI systems, and more: ByteByteGo Live is here",
+    "link": "https://blog.bytebytego.com/p/learn-claude-code-evals-ai-systems",
+    "publishedAt": "2026-09-11T15:32:16.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "EP225: Why Does Git Revert Cause Conflicts?",
+    "link": "https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts",
+    "publishedAt": "2026-09-12T15:30:46.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "LLMs as a Judge: How to Know if Your LLM is Healthy",
+    "link": "https://blog.bytebytego.com/p/llms-as-a-judge-how-to-know-if-your",
+    "publishedAt": "2026-09-14T15:31:02.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
+    "publishedAt": "2026-09-14T15:56:33.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+    "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+    "publishedAt": "2026-09-15T13:00:00.000Z"
   }
 ]
