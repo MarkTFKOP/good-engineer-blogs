@@ -1630,5 +1630,53 @@
     "title": "Have it both ways: stay discoverable in search while disallowing AI training",
     "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
     "publishedAt": "2026-09-15T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Give every teammate and agent the right level of access to your Workers",
+    "link": "https://blog.cloudflare.com/workers-granular-authorization/",
+    "publishedAt": "2026-09-15T13:00:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Nail the Narrative",
+    "link": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+    "publishedAt": "2026-09-15T15:11:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Do LLMs Have the Memory of a Goldfish?",
+    "link": "https://blog.bytebytego.com/p/do-llms-have-the-memory-of-a-goldfish",
+    "publishedAt": "2026-09-15T15:31:12.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "LAST CALL FOR ENROLLMENT: Build with Claude Code",
+    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-with-d63",
+    "publishedAt": "2026-09-15T19:31:01.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "Beyond the model: Engineering AI infra with scientific judgement",
+    "link": "https://airbnb.tech/ai-ml/beyond-the-model-engineering-ai-infra-with-scientific-judgement/",
+    "publishedAt": "2026-09-15T22:30:55.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How LLMs Can Find a Needle in a Haystack",
+    "link": "https://blog.bytebytego.com/p/how-llms-can-find-a-needle-in-a-haystack",
+    "publishedAt": "2026-09-16T15:31:42.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS reimagines the getting started experience",
+    "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/",
+    "publishedAt": "2026-09-16T17:50:14.000Z"
+  },
+  {
+    "source": "Spotify Engineering",
+    "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
+    "link": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/",
+    "publishedAt": "2026-09-16T19:13:53.000Z"
   }
 ]
