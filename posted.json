@@ -1678,5 +1678,53 @@
     "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
     "link": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/",
     "publishedAt": "2026-09-16T19:13:53.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: September 16",
+    "link": "https://martinfowler.com/fragments/2026-09-16.html",
+    "publishedAt": "2026-09-16T20:05:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+    "link": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+    "publishedAt": "2026-09-16T20:06:17.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "I don't like LLMs",
+    "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+    "publishedAt": "2026-09-17T13:50:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Migrations at Scale: Changing the Application Engine at 30,000 Feet",
+    "link": "https://blog.bytebytego.com/p/migrations-at-scale-changing-the",
+    "publishedAt": "2026-09-17T15:31:04.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Elastic Beanstalk introduces Cluster Mode",
+    "link": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/",
+    "publishedAt": "2026-09-17T19:20:21.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
+    "link": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
+    "publishedAt": "2026-09-17T21:11:48.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "Leave the Class Path in the Rearview Mirror",
+    "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-09-18T16:01:02.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Saving another 100TB of RAM with math (and Rust)",
+    "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "publishedAt": "2026-09-18T17:23:58.000Z"
   }
 ]
