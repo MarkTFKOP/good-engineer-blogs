@@ -1774,5 +1774,23 @@
     "title": "We just shipped support for the ugliest part of HTTP: Vary",
     "link": "https://blog.cloudflare.com/vary-support/",
     "publishedAt": "2026-09-22T14:04:31.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How OpenAI Built GPT-Live",
+    "link": "https://blog.bytebytego.com/p/how-openai-built-gpt-live",
+    "publishedAt": "2026-09-22T15:32:06.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
+    "publishedAt": "2026-09-22T22:21:13.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+    "publishedAt": "2026-09-22T22:23:14.000Z"
   }
 ]
