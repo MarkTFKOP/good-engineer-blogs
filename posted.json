@@ -1726,5 +1726,53 @@
     "title": "Saving another 100TB of RAM with math (and Rust)",
     "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
     "publishedAt": "2026-09-18T17:23:58.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "EP226: API Concepts Every Software Engineer Should Know",
+    "link": "https://blog.bytebytego.com/p/ep226-api-concepts-every-software",
+    "publishedAt": "2026-09-19T15:31:06.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
+    "link": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
+    "publishedAt": "2026-09-21T12:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Python Workers are now generally available",
+    "link": "https://blog.cloudflare.com/python-workers-ga/",
+    "publishedAt": "2026-09-21T13:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How to Run a Big Model on Cheap Hardware?",
+    "link": "https://blog.bytebytego.com/p/how-to-run-a-big-model-on-cheap-hardware",
+    "publishedAt": "2026-09-21T15:32:11.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
+    "link": "https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/",
+    "publishedAt": "2026-09-21T16:00:37.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
+    "publishedAt": "2026-09-21T16:11:24.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing Worker Previews: Isolated preview environments for every change your agent makes",
+    "link": "https://blog.cloudflare.com/worker-previews/",
+    "publishedAt": "2026-09-22T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "We just shipped support for the ugliest part of HTTP: Vary",
+    "link": "https://blog.cloudflare.com/vary-support/",
+    "publishedAt": "2026-09-22T14:04:31.000Z"
   }
 ]
