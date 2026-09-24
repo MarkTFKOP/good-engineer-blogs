@@ -1792,5 +1792,23 @@
     "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
     "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
     "publishedAt": "2026-09-22T22:23:14.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How to Customize a Model to Learn New Tricks",
+    "link": "https://blog.bytebytego.com/p/how-to-customize-a-model-to-learn",
+    "publishedAt": "2026-09-23T15:30:40.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon",
+    "link": "https://airbnb.tech/ai-ml/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon/",
+    "publishedAt": "2026-09-23T20:21:27.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "Bringing Private Processing to Meta AI Glasses",
+    "link": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
+    "publishedAt": "2026-09-24T00:00:00.000Z"
   }
 ]
