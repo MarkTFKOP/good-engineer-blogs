@@ -1840,5 +1840,11 @@
     "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
     "link": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/",
     "publishedAt": "2026-09-24T20:58:46.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Agents can now set up your website’s security with Turnstile Spin",
+    "link": "https://blog.cloudflare.com/turnstile-spin/",
+    "publishedAt": "2026-09-25T13:00:00.000Z"
   }
 ]
