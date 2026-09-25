@@ -1816,5 +1816,29 @@
     "title": "Healthy Feedback",
     "link": "https://martinfowler.com/articles/healthy-peer-feedback.html",
     "publishedAt": "2026-09-24T14:10:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+    "link": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+    "publishedAt": "2026-09-24T15:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "The Life of Data: From Creation to Deletion",
+    "link": "https://blog.bytebytego.com/p/the-life-of-data-from-creation-to",
+    "publishedAt": "2026-09-24T15:31:06.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: September 24",
+    "link": "https://martinfowler.com/fragments/2026-09-24.html",
+    "publishedAt": "2026-09-24T15:35:00.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/",
+    "publishedAt": "2026-09-24T20:58:46.000Z"
   }
 ]
