@@ -1870,5 +1870,17 @@
     "title": "Cloudflare’s 2026 Annual Founders’ Letter",
     "link": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
     "publishedAt": "2026-09-27T17:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
+    "link": "https://blog.cloudflare.com/voidzero-update/",
+    "publishedAt": "2026-09-28T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
+    "link": "https://blog.cloudflare.com/forge-open-source-generation-pipeline/",
+    "publishedAt": "2026-09-28T13:00:00.000Z"
   }
 ]
