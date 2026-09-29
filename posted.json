@@ -1930,5 +1930,53 @@
     "title": "AI Agents Can Think. Now They Can Pay.",
     "link": "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
     "publishedAt": "2026-09-28T15:31:11.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+    "publishedAt": "2026-09-28T16:14:54.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: September 29",
+    "link": "https://martinfowler.com/fragments/2026-09-29.html",
+    "publishedAt": "2026-09-29T12:41:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Using AI to chart a course for our post-quantum migration",
+    "link": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
+    "publishedAt": "2026-09-29T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Building a certificate authority for the whole Internet",
+    "link": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
+    "publishedAt": "2026-09-29T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+    "link": "https://blog.cloudflare.com/ai-era-framework/",
+    "publishedAt": "2026-09-29T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
+    "link": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
+    "publishedAt": "2026-09-29T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "We tested our own WAF with frontier AI models. Here’s what we found",
+    "link": "https://blog.cloudflare.com/adaptive-ai-waf-testing/",
+    "publishedAt": "2026-09-29T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
+    "link": "https://blog.cloudflare.com/threat-signals/",
+    "publishedAt": "2026-09-29T13:00:00.000Z"
   }
 ]
