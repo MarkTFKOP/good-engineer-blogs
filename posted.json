@@ -1882,5 +1882,53 @@
     "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
     "link": "https://blog.cloudflare.com/forge-open-source-generation-pipeline/",
     "publishedAt": "2026-09-28T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "The road to the agentic browser: A Kitesurf update",
+    "link": "https://blog.cloudflare.com/kitesurf-update/",
+    "publishedAt": "2026-09-28T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing The Cold Start: pitch your startup live at Cloudflare Connect",
+    "link": "https://blog.cloudflare.com/introducing-the-cold-start/",
+    "publishedAt": "2026-09-28T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
+    "link": "https://blog.cloudflare.com/emdash-cms-plugin-registry/",
+    "publishedAt": "2026-09-28T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
+    "link": "https://blog.cloudflare.com/rust-workers-emscripten-target/",
+    "publishedAt": "2026-09-28T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
+    "link": "https://blog.cloudflare.com/how-fast-is-the-web/",
+    "publishedAt": "2026-09-28T14:43:05.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+    "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+    "publishedAt": "2026-09-28T14:50:37.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
+    "link": "https://blog.cloudflare.com/vinext-nextjs-on-vite/",
+    "publishedAt": "2026-09-28T14:51:57.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "AI Agents Can Think. Now They Can Pay.",
+    "link": "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
+    "publishedAt": "2026-09-28T15:31:11.000Z"
   }
 ]
