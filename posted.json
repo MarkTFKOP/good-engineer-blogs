@@ -2014,5 +2014,53 @@
     "title": "Personalization without user identity",
     "link": "https://airbnb.tech/infrastructure/personalization-without-user-identity/",
     "publishedAt": "2026-09-29T21:32:38.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Cloudflare Containers, rebuilt to scale agent sandboxes",
+    "link": "https://blog.cloudflare.com/faster-agent-sandboxes/",
+    "publishedAt": "2026-09-30T12:58:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "The Internet has a second audience",
+    "link": "https://blog.cloudflare.com/agentic-web/",
+    "publishedAt": "2026-09-30T12:58:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Cut your AI spend with AI Gateway's Auto Router",
+    "link": "https://blog.cloudflare.com/auto-router/",
+    "publishedAt": "2026-09-30T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Detect and send production issues straight to your agent",
+    "link": "https://blog.cloudflare.com/real-time-issue-detection/",
+    "publishedAt": "2026-09-30T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Simplifying domains for people and agents",
+    "link": "https://blog.cloudflare.com/simplifying-domains/",
+    "publishedAt": "2026-09-30T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
+    "link": "https://blog.cloudflare.com/monetization-gateway-beta/",
+    "publishedAt": "2026-09-30T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Pay Per Use: when AI uses your work, you should get paid",
+    "link": "https://blog.cloudflare.com/pay-per-use/",
+    "publishedAt": "2026-09-30T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Identify AI model overuse with User Insights",
+    "link": "https://blog.cloudflare.com/ai-model-overuse-user-insights/",
+    "publishedAt": "2026-09-30T13:00:00.000Z"
   }
 ]
