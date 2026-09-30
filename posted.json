@@ -1978,5 +1978,41 @@
     "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
     "link": "https://blog.cloudflare.com/threat-signals/",
     "publishedAt": "2026-09-29T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Is your domain using post-quantum encryption? Now you can see for yourself",
+    "link": "https://blog.cloudflare.com/post-quantum-visibility/",
+    "publishedAt": "2026-09-29T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Enforce positive security with Cloudflare Application Profiles",
+    "link": "https://blog.cloudflare.com/application-profiles/",
+    "publishedAt": "2026-09-29T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Preventing quantum downgrade attacks against IPsec",
+    "link": "https://blog.cloudflare.com/ipsec-downgrade-protection/",
+    "publishedAt": "2026-09-29T13:00:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Bliki: Sensible Default",
+    "link": "https://martinfowler.com/bliki/SensibleDefault.html",
+    "publishedAt": "2026-09-29T13:43:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Why Do LLMs Lie?",
+    "link": "https://blog.bytebytego.com/p/why-do-llms-lie",
+    "publishedAt": "2026-09-29T15:31:36.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "Personalization without user identity",
+    "link": "https://airbnb.tech/infrastructure/personalization-without-user-identity/",
+    "publishedAt": "2026-09-29T21:32:38.000Z"
   }
 ]
