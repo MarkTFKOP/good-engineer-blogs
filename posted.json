@@ -2104,5 +2104,53 @@
     "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
     "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
     "publishedAt": "2026-09-30T22:10:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available",
+    "link": "https://blog.cloudflare.com/cloudflare-basin/",
+    "publishedAt": "2026-10-01T12:58:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing Workers KV Instant — powered by Quicksilver",
+    "link": "https://blog.cloudflare.com/workers-kv-instant/",
+    "publishedAt": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Cloudflare OS: your company’s agent workspace, managed for you",
+    "link": "https://blog.cloudflare.com/managed-cloudflare-os/",
+    "publishedAt": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Announcing Cloudflare K2: serverless event streams",
+    "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+    "publishedAt": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "We want you to build the next Git platform on Cloudflare",
+    "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+    "publishedAt": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "AI Search is now generally available",
+    "link": "https://blog.cloudflare.com/ai-search-ga/",
+    "publishedAt": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Support for modern cryptographic algorithms in Workers",
+    "link": "https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/",
+    "publishedAt": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "One year later: Sovereign AI and the fight for choice",
+    "link": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+    "publishedAt": "2026-10-01T13:04:19.000Z"
   }
 ]
