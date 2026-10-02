@@ -2170,5 +2170,53 @@
     "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
     "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
     "publishedAt": "2026-10-01T20:04:04.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "8 major updates to Cloudflare Observability",
+    "link": "https://blog.cloudflare.com/one-observability-platform/",
+    "publishedAt": "2026-10-02T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
+    "link": "https://blog.cloudflare.com/cloudflare-tracing/",
+    "publishedAt": "2026-10-02T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
+    "link": "https://blog.cloudflare.com/enterprise-for-all-update/",
+    "publishedAt": "2026-10-02T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
+    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+    "publishedAt": "2026-10-02T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Follow the thread: a new dashboard to investigate account abuse",
+    "link": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+    "publishedAt": "2026-10-02T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+    "link": "https://blog.cloudflare.com/protected-quick-tunnels/",
+    "publishedAt": "2026-10-02T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Building for good: How civil society organizations are automating on Cloudflare",
+    "link": "https://blog.cloudflare.com/civil-society-automation/",
+    "publishedAt": "2026-10-02T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "2026 Birthday week: network performance update",
+    "link": "https://blog.cloudflare.com/network-performance-birthday-week-2026/",
+    "publishedAt": "2026-10-02T13:00:00.000Z"
   }
 ]
