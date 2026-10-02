@@ -2152,5 +2152,23 @@
     "title": "One year later: Sovereign AI and the fight for choice",
     "link": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
     "publishedAt": "2026-10-01T13:04:19.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Why State is the Hardest Thing in Software Design",
+    "link": "https://blog.bytebytego.com/p/why-state-is-the-hardest-thing-in",
+    "publishedAt": "2026-10-01T15:31:21.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+    "link": "https://blog.cloudflare.com/clef-decision-models/",
+    "publishedAt": "2026-10-01T15:34:02.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
+    "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
+    "publishedAt": "2026-10-01T20:04:04.000Z"
   }
 ]
