@@ -2248,5 +2248,29 @@
     "title": "Fragments: October  4",
     "link": "https://martinfowler.com/fragments/2026-10-04.html",
     "publishedAt": "2026-10-05T04:28:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Everything we launched during Birthday Week 2026",
+    "link": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+    "publishedAt": "2026-10-05T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "One year later: the power of 1.1.1.1 interns",
+    "link": "https://blog.cloudflare.com/one-year-later-1111-interns/",
+    "publishedAt": "2026-10-05T13:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "The LLM Blindspot: Why Models Forget What’s in the Middle of Your Prompt",
+    "link": "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
+    "publishedAt": "2026-10-05T15:30:51.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/",
+    "publishedAt": "2026-10-05T15:41:19.000Z"
   }
 ]
