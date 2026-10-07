@@ -2302,5 +2302,17 @@
     "title": "The keys to the Internet change on October 11. Are you ready?",
     "link": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
     "publishedAt": "2026-10-06T17:50:11.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How Netflix Taught an LLM to Recommend Movies So That You Keep Watching",
+    "link": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
+    "publishedAt": "2026-10-07T15:31:48.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
+    "link": "https://blog.cloudflare.com/agentic-security-operations/",
+    "publishedAt": "2026-10-07T16:30:36.000Z"
   }
 ]
