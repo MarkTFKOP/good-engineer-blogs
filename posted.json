@@ -2332,5 +2332,17 @@
     "title": "How Software Boundaries Are The Most Important Skill for Developers",
     "link": "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
     "publishedAt": "2026-10-08T15:31:01.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Deno is joining Cloudflare",
+    "link": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+    "publishedAt": "2026-10-09T12:50:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+    "link": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+    "publishedAt": "2026-10-09T13:00:00.000Z"
   }
 ]
