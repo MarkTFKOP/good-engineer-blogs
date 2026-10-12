@@ -2350,5 +2350,35 @@
     "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
     "link": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
     "publishedAt": "2026-10-09T18:27:34.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Filter, reshape, and redact logs before export with Transformers",
+    "link": "https://blog.cloudflare.com/transformers-on-logpush/",
+    "publishedAt": "2026-10-12T14:44:59.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How to Build Models Without Language, with Logical Intelligence",
+    "link": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
+    "publishedAt": "2026-10-12T15:00:45.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
+    "link": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
+    "publishedAt": "2026-10-12T16:00:50.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
+    "link": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
+    "publishedAt": "2026-10-12T16:01:32.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
+    "link": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
+    "publishedAt": "2026-10-12T21:19:18.000Z"
   }
 ]
