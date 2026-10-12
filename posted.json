@@ -2344,5 +2344,11 @@
     "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
     "link": "https://blog.cloudflare.com/workers-on-demand-profiling/",
     "publishedAt": "2026-10-09T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+    "link": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+    "publishedAt": "2026-10-09T18:27:34.000Z"
   }
 ]
