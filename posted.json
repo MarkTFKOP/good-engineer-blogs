@@ -2494,5 +2494,53 @@
     "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
     "link": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
     "publishedAt": "2026-10-14T19:51:35.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
+    "link": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-10-14T19:56:08.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "Measuring the Impact of Personalized Recommendations",
+    "link": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-10-14T19:57:43.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
+    "link": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-10-14T19:59:08.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "Integrating Netflix’s Foundation Model into Personalization applications",
+    "link": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-10-14T20:02:22.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+    "link": "https://blog.cloudflare.com/yandex-outage/",
+    "publishedAt": "2026-10-14T20:24:19.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+    "link": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+    "publishedAt": "2026-10-15T13:00:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "When Software Meets Hardware",
+    "link": "https://martinfowler.com/articles/software-meets-hardware.html",
+    "publishedAt": "2026-10-15T13:25:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Deploy with Void",
+    "link": "https://blog.cloudflare.com/deploy-with-void/",
+    "publishedAt": "2026-10-15T14:00:00.000Z"
   }
 ]
