@@ -2578,5 +2578,23 @@
     "title": "Continuous accountability for Verified bots",
     "link": "https://blog.cloudflare.com/verified-bots-accountability/",
     "publishedAt": "2026-10-16T13:00:00.000Z"
+  },
+  {
+    "source": "Spotify Engineering",
+    "title": "Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM",
+    "link": "https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/",
+    "publishedAt": "2026-10-16T14:29:18.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+    "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-10-16T16:01:02.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "EP229: 8 Chunking strategies for RAG-based agents",
+    "link": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
+    "publishedAt": "2026-10-17T15:30:51.000Z"
   }
 ]
