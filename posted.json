@@ -2596,5 +2596,41 @@
     "title": "EP229: 8 Chunking strategies for RAG-based agents",
     "link": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
     "publishedAt": "2026-10-17T15:30:51.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+    "link": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+    "publishedAt": "2026-10-19T13:00:00.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+    "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+    "publishedAt": "2026-10-19T13:00:10.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+    "link": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+    "publishedAt": "2026-10-19T15:30:37.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How Uber Built a Genie to Answer Questions Correctly",
+    "link": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
+    "publishedAt": "2026-10-19T15:31:03.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
+    "publishedAt": "2026-10-19T15:34:59.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
+    "link": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+    "publishedAt": "2026-10-19T16:00:47.000Z"
   }
 ]
