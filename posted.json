@@ -2632,5 +2632,17 @@
     "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
     "link": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
     "publishedAt": "2026-10-19T16:00:47.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing Clairic, a new System One class of extraction models",
+    "link": "https://blog.cloudflare.com/clairic-extraction-model/",
+    "publishedAt": "2026-10-19T17:48:26.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+    "link": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+    "publishedAt": "2026-10-19T19:12:53.000Z"
   }
 ]
