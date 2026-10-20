@@ -2644,5 +2644,11 @@
     "title": "Cutting our inference bill by 68% by being obsessive about optimization",
     "link": "https://blog.cloudflare.com/obsessive-inference-optimization/",
     "publishedAt": "2026-10-19T19:12:53.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing tsrs: a Port of TypeScript to Rust",
+    "link": "https://blog.cloudflare.com/typescript-rust-port/",
+    "publishedAt": "2026-10-20T13:00:00.000Z"
   }
 ]
