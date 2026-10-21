@@ -2668,5 +2668,29 @@
     "title": "8 eMudhra certificates are compromised. Here's what you need to know",
     "link": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
     "publishedAt": "2026-10-20T22:20:16.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: October 21",
+    "link": "https://martinfowler.com/fragments/2026-10-21.html",
+    "publishedAt": "2026-10-21T10:51:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+    "link": "https://blog.cloudflare.com/webmcp-commerce/",
+    "publishedAt": "2026-10-21T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Cloudflare deploys protections against php2shell vulnerability",
+    "link": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+    "publishedAt": "2026-10-21T13:56:45.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing full transaction detection for Cloudflare WAF",
+    "link": "https://blog.cloudflare.com/full-transaction-waf/",
+    "publishedAt": "2026-10-21T14:10:42.000Z"
   }
 ]
