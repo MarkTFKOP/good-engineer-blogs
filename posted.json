@@ -2650,5 +2650,23 @@
     "title": "Introducing tsrs: a Port of TypeScript to Rust",
     "link": "https://blog.cloudflare.com/typescript-rust-port/",
     "publishedAt": "2026-10-20T13:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Why Shopify Migrated From React Native",
+    "link": "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
+    "publishedAt": "2026-10-20T15:31:07.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+    "publishedAt": "2026-10-20T17:03:38.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "8 eMudhra certificates are compromised. Here's what you need to know",
+    "link": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+    "publishedAt": "2026-10-20T22:20:16.000Z"
   }
 ]
