@@ -2692,5 +2692,11 @@
     "title": "Introducing full transaction detection for Cloudflare WAF",
     "link": "https://blog.cloudflare.com/full-transaction-waf/",
     "publishedAt": "2026-10-21T14:10:42.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "LLM Prompt Caching Versus Semantic Caching",
+    "link": "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
+    "publishedAt": "2026-10-21T15:31:08.000Z"
   }
 ]
