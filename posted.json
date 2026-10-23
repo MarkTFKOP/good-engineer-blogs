@@ -2710,5 +2710,23 @@
     "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
     "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-199472cfded5?source=rss----2615bd06b42e---4",
     "publishedAt": "2026-10-22T14:15:09.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Why Distributed Systems Prefer Independence over Coordination",
+    "link": "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
+    "publishedAt": "2026-10-22T15:30:47.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Continuum for code vulnerabilities is now generally available",
+    "link": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
+    "publishedAt": "2026-10-22T20:33:10.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+    "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-10-22T22:19:12.000Z"
   }
 ]
