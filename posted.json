@@ -2728,5 +2728,35 @@
     "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
     "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
     "publishedAt": "2026-10-22T22:19:12.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Bringing post-quantum cryptography to geographically fenced key management",
+    "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+    "publishedAt": "2026-10-23T18:06:56.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Origin Range Requests: Serving large files without range-request tuning",
+    "link": "https://blog.cloudflare.com/origin-range-requests/",
+    "publishedAt": "2026-10-23T18:22:59.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+    "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-10-23T18:32:51.000Z"
+  },
+  {
+    "source": "Arpit Bhayani",
+    "title": "Compiling a Workflow into a 3B Model",
+    "link": "https://arpitbhayani.me/blogs/compiling-an-sop-into-a-3b-model",
+    "publishedAt": "2026-10-24T00:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "EP230: RAG vs Agentic RAG",
+    "link": "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
+    "publishedAt": "2026-10-24T15:30:37.000Z"
   }
 ]
