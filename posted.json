@@ -2758,5 +2758,29 @@
     "title": "EP230: RAG vs Agentic RAG",
     "link": "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
     "publishedAt": "2026-10-24T15:30:37.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/",
+    "publishedAt": "2026-10-26T15:02:24.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "A Deep Dive into Salesforce’s Agent Tech Stack",
+    "link": "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
+    "publishedAt": "2026-10-26T15:30:38.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
+    "link": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
+    "publishedAt": "2026-10-26T16:00:07.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+    "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-10-26T16:01:02.000Z"
   }
 ]
