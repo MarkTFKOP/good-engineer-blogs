@@ -2782,5 +2782,23 @@
     "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
     "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
     "publishedAt": "2026-10-26T16:01:02.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "Making Failure Diagnosis Reliable with Pensive AI",
+    "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-10-26T17:04:57.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Last chance to get every live course in one membership",
+    "link": "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course",
+    "publishedAt": "2026-10-26T20:24:39.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "publishedAt": "2026-10-26T22:01:23.000Z"
   }
 ]
