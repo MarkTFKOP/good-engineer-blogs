@@ -2800,5 +2800,17 @@
     "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
     "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
     "publishedAt": "2026-10-26T22:01:23.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+    "link": "https://blog.cloudflare.com/php-ctf/",
+    "publishedAt": "2026-10-27T13:00:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "What took the Internet offline in Q3 2026",
+    "link": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+    "publishedAt": "2026-10-27T13:00:00.000Z"
   }
 ]
