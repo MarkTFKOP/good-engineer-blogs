@@ -2830,5 +2830,23 @@
     "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
     "link": "https://engineering.fb.com/2026/10/27/security/privacylib/",
     "publishedAt": "2026-10-27T16:00:12.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: October 28",
+    "link": "https://martinfowler.com/fragments/2026-10-28.html",
+    "publishedAt": "2026-10-28T12:55:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How Uber Built A Gateway For AI Agents To Access Tools",
+    "link": "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
+    "publishedAt": "2026-10-28T15:31:05.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+    "link": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+    "publishedAt": "2026-10-28T16:00:01.000Z"
   }
 ]
