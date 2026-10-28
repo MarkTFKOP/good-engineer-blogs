@@ -2812,5 +2812,23 @@
     "title": "What took the Internet offline in Q3 2026",
     "link": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
     "publishedAt": "2026-10-27T13:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How Apple Fits an LLM on Your iPhone",
+    "link": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
+    "publishedAt": "2026-10-27T15:31:04.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+    "link": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
+    "publishedAt": "2026-10-27T15:59:24.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+    "link": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+    "publishedAt": "2026-10-27T16:00:12.000Z"
   }
 ]
