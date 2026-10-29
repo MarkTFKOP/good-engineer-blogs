@@ -2848,5 +2848,35 @@
     "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
     "link": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
     "publishedAt": "2026-10-28T16:00:01.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+    "link": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+    "publishedAt": "2026-10-29T12:55:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Why are good developers so wary of agentic development?",
+    "link": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+    "publishedAt": "2026-10-29T13:50:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Bliki: LLM Voice",
+    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "publishedAt": "2026-10-29T14:28:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Data Movement Strategies In System Design",
+    "link": "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
+    "publishedAt": "2026-10-29T15:31:02.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
+    "link": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+    "publishedAt": "2026-10-29T16:00:12.000Z"
   }
 ]
