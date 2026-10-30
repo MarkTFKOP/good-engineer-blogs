@@ -2878,5 +2878,17 @@
     "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
     "link": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
     "publishedAt": "2026-10-29T16:00:12.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Cloudflare services for private origins is now generally available",
+    "link": "https://blog.cloudflare.com/private-origins-public-to-private/",
+    "publishedAt": "2026-10-30T14:23:43.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+    "link": "https://blog.cloudflare.com/emudhra-patching/",
+    "publishedAt": "2026-10-30T17:38:50.000Z"
   }
 ]
