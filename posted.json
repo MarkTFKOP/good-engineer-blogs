@@ -2914,5 +2914,23 @@
     "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/",
     "publishedAt": "2026-11-02T16:45:48.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities ",
+    "link": "https://blog.cloudflare.com/zero-wire/",
+    "publishedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How Netflix Uses AI Agents for Performance Engineering",
+    "link": "https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance",
+    "publishedAt": "2026-11-03T16:31:10.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
+    "link": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
+    "publishedAt": "2026-11-03T17:00:35.000Z"
   }
 ]
