@@ -2932,5 +2932,23 @@
     "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
     "link": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
     "publishedAt": "2026-11-03T17:00:35.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "Frontier quality at 1% of the cost: a production benchmark of LLM classifiers",
+    "link": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/",
+    "publishedAt": "2026-11-03T22:31:31.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "See the agents, set the terms: new visibility and control for personal agents",
+    "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+    "publishedAt": "2026-11-04T14:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How Anthropic Redesigned Source Control",
+    "link": "https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control",
+    "publishedAt": "2026-11-04T16:30:59.000Z"
   }
 ]
