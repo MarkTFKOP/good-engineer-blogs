@@ -2956,5 +2956,23 @@
     "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
     "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
     "publishedAt": "2026-11-04T23:34:52.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "The Data Product Platform Navigator",
+    "link": "https://martinfowler.com/articles/data-product-platform-nav.html",
+    "publishedAt": "2026-11-05T14:11:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "The Hidden Work Behind Every Database Request",
+    "link": "https://blog.bytebytego.com/p/the-hidden-work-behind-every-database",
+    "publishedAt": "2026-11-05T16:31:07.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Agents aren’t humans (but they kinda are)",
+    "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
+    "publishedAt": "2026-11-05T17:03:04.000Z"
   }
 ]
