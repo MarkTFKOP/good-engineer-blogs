@@ -2950,5 +2950,11 @@
     "title": "How Anthropic Redesigned Source Control",
     "link": "https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control",
     "publishedAt": "2026-11-04T16:30:59.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
+    "publishedAt": "2026-11-04T23:34:52.000Z"
   }
 ]
