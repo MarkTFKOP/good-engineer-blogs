@@ -2974,5 +2974,11 @@
     "title": "Agents aren’t humans (but they kinda are)",
     "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
     "publishedAt": "2026-11-05T17:03:04.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "The post-quantum future of web privacy",
+    "link": "https://blog.cloudflare.com/vole-mole/",
+    "publishedAt": "2026-11-06T14:00:00.000Z"
   }
 ]
