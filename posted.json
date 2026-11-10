@@ -3022,5 +3022,41 @@
     "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
     "publishedAt": "2026-11-09T17:55:26.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Long-horizon agents and durable execution",
+    "link": "https://martinfowler.com/articles/durable-execution-agents.html",
+    "publishedAt": "2026-11-10T14:10:00.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: November 10",
+    "link": "https://martinfowler.com/fragments/2026-11-10.html",
+    "publishedAt": "2026-11-10T14:30:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How GitHub Used AI to Port Copilot From TypeScript to Rust in Record Time",
+    "link": "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
+    "publishedAt": "2026-11-10T16:30:55.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+    "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+    "publishedAt": "2026-11-10T16:59:31.000Z"
+  },
+  {
+    "source": "Meta Engineering",
+    "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
+    "link": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+    "publishedAt": "2026-11-10T17:00:49.000Z"
+  },
+  {
+    "source": "Airbnb Engineering",
+    "title": "Skipper, Airbnb’s embedded workflow engine, is now open source",
+    "link": "https://airbnb.tech/open-source/skipper-airbnbs-embedded-workflow-engine-is-now-open-source/",
+    "publishedAt": "2026-11-10T18:08:34.000Z"
   }
 ]
