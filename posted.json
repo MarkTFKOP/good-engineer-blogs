@@ -3160,5 +3160,35 @@
     "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/",
     "publishedAt": "2026-11-16T17:55:46.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Deterministic Simulation Testing",
+    "link": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
+    "publishedAt": "2026-11-17T14:33:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Why Thinking More Can Make an LLM Dumb",
+    "link": "https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm",
+    "publishedAt": "2026-11-17T16:31:11.000Z"
+  },
+  {
+    "source": "Netflix Tech Blog",
+    "title": "Engineering AI Discover",
+    "link": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+    "publishedAt": "2026-11-17T17:01:02.000Z"
+  },
+  {
+    "source": "AWS Blog",
+    "title": "Four Continents, Four New AWS Heroes: Closing Out 2026",
+    "link": "https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/",
+    "publishedAt": "2026-11-17T17:06:43.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+    "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "publishedAt": "2026-11-17T20:24:27.000Z"
   }
 ]
