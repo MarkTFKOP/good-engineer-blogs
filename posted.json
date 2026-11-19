@@ -3232,5 +3232,11 @@
     "title": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances",
     "link": "https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/",
     "publishedAt": "2026-11-18T19:39:07.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+    "link": "https://blog.cloudflare.com/open-clairic/",
+    "publishedAt": "2026-11-18T22:00:00.000Z"
   }
 ]
