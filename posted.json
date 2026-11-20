@@ -3262,5 +3262,23 @@
     "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
     "link": "https://blog.cloudflare.com/nginx2root/",
     "publishedAt": "2026-11-20T01:58:29.000Z"
+  },
+  {
+    "source": "Martin Fowler",
+    "title": "Fragments: November 20",
+    "link": "https://martinfowler.com/fragments/2026-11-20.html",
+    "publishedAt": "2026-11-20T18:38:00.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+    "link": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+    "publishedAt": "2026-11-20T20:00:45.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+    "link": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+    "publishedAt": "2026-11-20T20:24:38.000Z"
   }
 ]
