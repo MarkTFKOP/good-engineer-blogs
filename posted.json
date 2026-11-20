@@ -3256,5 +3256,11 @@
     "title": "The Invisible Systems: What Happens Between Services",
     "link": "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
     "publishedAt": "2026-11-19T16:30:47.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+    "link": "https://blog.cloudflare.com/nginx2root/",
+    "publishedAt": "2026-11-20T01:58:29.000Z"
   }
 ]
