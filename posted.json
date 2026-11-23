@@ -3280,5 +3280,11 @@
     "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
     "link": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
     "publishedAt": "2026-11-20T20:24:38.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "EP234: Docker vs Kubernetes",
+    "link": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
+    "publishedAt": "2026-11-21T16:31:20.000Z"
   }
 ]
