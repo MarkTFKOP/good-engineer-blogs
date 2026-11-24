@@ -3286,5 +3286,17 @@
     "title": "EP234: Docker vs Kubernetes",
     "link": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
     "publishedAt": "2026-11-21T16:31:20.000Z"
+  },
+  {
+    "source": "Cloudflare Blog",
+    "title": "Probing DNS at Cloudflare",
+    "link": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+    "publishedAt": "2026-11-23T14:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "DoorDash Dispatch: Building a Lightning-Fast Delivery System",
+    "link": "https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning",
+    "publishedAt": "2026-11-23T16:31:03.000Z"
   }
 ]
