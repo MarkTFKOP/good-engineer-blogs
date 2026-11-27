@@ -3310,5 +3310,11 @@
     "title": "Introducing Search for Agents",
     "link": "https://blog.cloudflare.com/search-for-agents/",
     "publishedAt": "2026-11-25T14:00:00.000Z"
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "The Life of a Database Row: What Really Happens Behind the Scenes",
+    "link": "https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really",
+    "publishedAt": "2026-11-26T16:30:34.000Z"
   }
 ]
